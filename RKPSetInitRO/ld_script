@@ -1,0 +1,9 @@
+SECTIONS
+{
+       .entry : { *(.entry) }
+       .text : { *(.text) }
+       .data : { *(.data) }
+       .bss : { *(.bss) }
+}
+
+
