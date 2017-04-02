@@ -7,6 +7,5 @@
 
 # PoC from Project Zero
 - https://bugs.chromium.org/p/project-zero/issues/list?can=1&q=label%3AFinder-laginimaineb
-- https://bugs.chromium.org/p/project-zero/issues/detail?id=979
-- https://bugs.chromium.org/p/project-zero/issues/detail?id=980
-- https://bugs.chromium.org/p/project-zero/issues/detail?id=974
+- https://bugs.chromium.org/p/project-zero/issues/detail?id=984
+- https://bugs.chromium.org/p/project-zero/issues/detail?id=967
